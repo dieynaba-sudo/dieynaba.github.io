@@ -121,7 +121,8 @@
             <p><br><span class="titre">Membre de MAPS,moniteurs d'appui à la promotion de la science</span><br>
             Profésseur Bénévol en Mathématiques au Lycéé fedherbe de Saint Louis</p>
             <p><br><span class="titre">Autres</span><br>
-            Recherche Autodidacte sur Grafikart,OpenClassroom,Réseaux Sociaux,Musique,Cuisine</p>
+            Recherche Autodidacte sur Grafikart,OpenClassroom
+            Réseaux Sociaux,Musique,Cuisine</p>
             
 
         </div>
