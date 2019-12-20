@@ -1,0 +1,81 @@
+body{
+    background-color: gray;
+}
+.page{
+    width: 750px;
+    margin: auto;
+    font-family: 'source sans pro', Calibri,Tahoma,sans-serif;
+    font-size: 16px;
+    border: Spx solid #3388BB;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px black;
+    padding: 20px;
+    background-color: white;
+    
+}
+.infophoto{
+    height: 250px;
+
+}
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.section:hover{
+    color:#00AA00;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+h2{
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388DD;
+}
+
+.durée{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+#forma-gauche p{
+    margin-bottom: 37px;
+}
+
+#exp-gauche p{
+    margin-top: 37px;
+}
+#comp-droite p{
+    margin-top: 42px;
+    line-height: 25px;
+}
+
+#langue-droite p{
+    margin-top:50px;
+}
+
+strong{
+    font-size: 35px;
+}
+#interet-droite {
+    margin-top: 40px;
+}
+
+
