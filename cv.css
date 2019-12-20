@@ -33,11 +33,11 @@ body{
 .sec-gauche{
     float: left;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 20px;
 }
 .sec-droite{
     margin-left: 150px;
-    margin-top: 37px;
+    margin-top: 30px;
 }
 h2{
     font-size: 28px;
