@@ -77,6 +77,13 @@ strong{
 #interet-droite {
     margin-top: 40px;
 }
+@media all (max-height: 500px)
+{
+    p
+    {
+         margin-bottom: 37px;
+    }
+}
 
 
 
