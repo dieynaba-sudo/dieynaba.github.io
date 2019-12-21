@@ -79,10 +79,9 @@ strong{
 }
 @media all 
 {
-    p
-    {
-         margin-bottom: 37px;
-    }
+    #forma-gauche p{
+    margin-bottom: 37px;
+}
 }
 
 
